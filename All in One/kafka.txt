@@ -1,0 +1,14 @@
+1) Single platform to connect everyone toevery event.
+
+2) Real time stream of events
+
+3) All events stored in historical view
+
+Apache Kafka: the defacto standard for Real-time event streaming
+
+1) Global scale
+2) Real time
+3) Persistent Storage
+4) Stream processing
+
+
